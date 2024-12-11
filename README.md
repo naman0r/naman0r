@@ -1,3 +1,5 @@
-Hello this is a change I am making to the README.md file
+Hi! I am Naman and I am a passionate Computer Science and Financial Technology combined major at Northeastern University. I am also planning on Minoring in Mathematics. 
 
-Okay I made a change. I am on resume branch
+Please check out some of my projects in my GitHub, and check out my linkedin and personal website for more info!
+
+
