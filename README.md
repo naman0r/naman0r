@@ -1,7 +1,20 @@
-# Hi! I am Naman
-and I am a passionate Computer Science and Financial Technology combined major at Northeastern University. I am also planning on Minoring in Mathematics. 
+# Hi! I am Naman 👋   |   📍 Boston, MA
 
-Please check out some of my projects in my GitHub, and check out my linkedin and personal website for more info!
+I am a First Year Computer Science and Business Administration Student at Northeastern University 
 
 
+## My Toolkit              🧰
+### Languages : Java, Python, JavaScript, Racket, SQL
+### Frameworks and UI Libraries: React.js, React Native, GSAP animations
+### Backend Technologies and Web Frameworks: Node.js, Express, Flask, Axios, Selenium
+### Databases: Supabase, MongoDB (beginner in both) 
+### Developer Tools and IDEs: Eclipse, VS Code, Postman
+
+
+## Contact 
+To learn more about me and my projects, please visit my Personal Website [here](https://namanrusia.netlify.app/). 
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/namanrusia/) 
+
+# 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman0r)](https://github.com/anuraghazra/github-readme-stats)
