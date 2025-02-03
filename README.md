@@ -17,4 +17,4 @@ To learn more about me and my projects, please visit my Personal Website [here](
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/namanrusia/) 
 
 # 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman0r)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman0r&layout=compact)
