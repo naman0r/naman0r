@@ -12,7 +12,7 @@ I am a First Year Computer Science and Business Administration Student at Northe
 
 
 ## Contact 
-To learn more about me and my projects, please visit my Personal Website [here](https://namanrusia.netlify.app/). 
+To learn more about me and my projects, please visit my Personal Website [here](https://namanrusia.com). Check out some of my projects [here](https://namanrusia.com/projects)
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/namanrusia/) 
 
