@@ -3,7 +3,7 @@
 I am a First Year Computer Science and Business Administration Student at Northeastern University 
 
 
-## MyTookkit.json              🧰
+## MyToolkit.json              🧰
 
 ```json
 {
