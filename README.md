@@ -4,11 +4,42 @@ I am a First Year Computer Science and Business Administration Student at Northe
 
 
 ## My Toolkit              🧰
-### Languages : Java, Python, JavaScript, Racket, SQL, TypeScript
-### Frameworks and UI Libraries: React.js, React Native, GSAP animations, PrimeReact, Tailwind.css, Next.js, JSwing, AceternityUI, Shadcn
-### Backend Technologies and Web Frameworks: Node.js, Express, Flask, Axios, Selenium.py, JWT (json web tokens), Firebase-auth
-### Databases and languages: Supabase, MongoDB, MySQL.
-### Developer Tools and IDEs: Eclipse, Visual Studio Code, Postman, DataGrip, MySQLWorkbench, PyCharm, Docker
+
+```json
+{
+  "Languages": ["Java", "Python", "JavaScript", "Racket", "SQL", "TypeScript"],
+  "Frameworks_and_UI_Libraries": [
+    "React.js",
+    "React Native",
+    "GSAP animations",
+    "PrimeReact",
+    "Tailwind.css",
+    "Next.js",
+    "JSwing",
+    "AceternityUI",
+    "Shadcn"
+  ],
+  "Backend_Technologies_and_Web_Frameworks": [
+    "Node.js",
+    "Express",
+    "Flask",
+    "Axios",
+    "Selenium.py",
+    "JWT",
+    "Firebase-auth"
+  ],
+  "Databases_and_Languages": ["Supabase", "MongoDB", "MySQL"],
+  "Developer_Tools_and_IDEs": [
+    "Eclipse",
+    "Visual Studio Code",
+    "Postman",
+    "DataGrip",
+    "MySQLWorkbench",
+    "PyCharm",
+    "Docker"
+  ]
+}
+
 
 
 ## Contact 
