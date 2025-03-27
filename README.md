@@ -3,32 +3,36 @@
 I am a First Year Computer Science and Business Administration Student at Northeastern University 
 
 
-## MyToolkit.json              🧰
+## MyToolkit.json              🧰 👾
 
 ```json
 {
+
   "Languages": ["Java", "Python", "JavaScript", "Racket", "SQL", "TypeScript"],
+
   "Frameworks_and_UI_Libraries": [
     "React.js",
-    "React Native",
-    "GSAP animations",
-    "PrimeReact",
-    "Tailwind.css",
     "Next.js",
-    "JSwing",
-    "AceternityUI",
-    "Shadcn"
+    "React Native",
+    "Tailwind.css",
+    "Shadcn",
   ],
+
   "Backend_Technologies_and_Web_Frameworks": [
+    "Flask",
+    "FastAPI"
     "Node.js",
     "Express",
-    "Flask",
     "Axios",
-    "Selenium.py",
-    "JWT",
-    "Firebase-auth"
+    "Selenium.py webscrapping",
+    "BeautifulSoup",
+    "Numpy, Pandas, SKLearn",
+    "Json Web Tokens and Tokenization",
+    "Firebase-auth",
   ],
+
   "Databases_and_Languages": ["Supabase", "MongoDB", "MySQL"],
+
   "Developer_Tools_and_IDEs": [
     "Eclipse",
     "Visual Studio Code",
@@ -36,7 +40,7 @@ I am a First Year Computer Science and Business Administration Student at Northe
     "DataGrip",
     "MySQLWorkbench",
     "PyCharm",
-    "Docker"
+    "Docker",
   ]
 }
 
