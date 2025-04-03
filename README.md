@@ -1,4 +1,4 @@
-# Hi! I am Naman 👋   |   📍 Boston, MA
+# Hi! I'm Naman 👋   |   📍 Boston, MA
 
 I am a First Year Computer Science and Business Administration Student at Northeastern University 
 
