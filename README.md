@@ -12,6 +12,8 @@ I am a First Year Computer Science and Business Administration Student at Northe
 ```json
 {
 
+  "Availability": ["Spring 2026 co-op (January - June 2026)"],
+
   "Languages": ["Java", "Python", "JavaScript", "Racket", "SQL", "TypeScript"],
 
   "Frameworks_and_UI_Libraries": [
