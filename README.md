@@ -2,7 +2,7 @@
 
 I am a First Year Computer Science and Business Administration Student at Northeastern University 
 
-![snake gif](https://github.com/naman0r/naman0r/blob/output/ocean.gif)
+<!--![snake gif](https://github.com/naman0r/naman0r/blob/output/ocean.gif)-->
 
 
 
