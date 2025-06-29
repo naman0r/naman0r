@@ -5,7 +5,7 @@ I am a First Year Computer Science and Business Administration Student at **Nort
 <br/>
 
 <img src="https://github.com/naman0r/naman0r/blob/output/ocean.gif" width="450" align="right">
-Currently building: <a href="https://axiomai.space" target="_blank">AxiomAI</a>
+Currently building: <a href="https://axiomai.space" target="_blank" >AxiomAI</a>
 <br/>
 <br/>
 Working  <a href="https://venu3d.com">@VenuAI</a> [YC backed]
