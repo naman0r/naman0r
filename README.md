@@ -2,6 +2,9 @@
 
 I am a First Year Computer Science and Business Administration Student at Northeastern University 
 
+Currently building: [AxiomAI](https://axiomai.space)
+Working at: @VenuAI [YC backed]
+
 ![snake gif](https://github.com/naman0r/naman0r/blob/output/ocean.gif)
 
 
@@ -12,41 +15,25 @@ I am a First Year Computer Science and Business Administration Student at Northe
 ```json
 {
 
-  "Availability": ["Spring 2026 co-op (January - June 2026)"],
+  "Availability": ["Spring 2026 co-op (January - June 2026)", "Summer 2026"],
 
   "Languages": ["Java", "Python", "JavaScript", "Racket", "SQL", "TypeScript"],
 
   "Frameworks_and_UI_Libraries": [
-    "React.js",
-    "Next.js",
-    "React Native",
-    "Tailwind.css",
-    "Shadcn",
+    "React.js", "Next.js", "React Native", "Tailwind.css"
   ],
 
   "Backend_Technologies_and_Web_Frameworks": [
-    "Flask",
-    "FastAPI"
-    "Node.js",
-    "Express",
-    "Axios",
-    "Selenium.py webscrapping",
-    "BeautifulSoup",
-    "Numpy, Pandas, SKLearn",
-    "Json Web Tokens and Tokenization",
-    "Firebase-auth",
+    "Flask", "FastAPI", "Node.js", "Express", "Selenium.py webscrapping",
+    "BeautifulSoup", "Numpy, Pandas, SKLearn",  "Json Web Tokens and Tokenization",
+    "OAuth (Clerk, Firebase, etc.)"
   ],
 
-  "Databases_and_Languages": ["Supabase", "MongoDB", "MySQL"],
+  "Databases_and_Languages": ["SQL", "MySQL", "PostgreSQL", "Supabase", "VercelPG", "MongoDB"],
 
   "Developer_Tools_and_IDEs": [
-    "Eclipse",
-    "Visual Studio Code",
-    "Postman",
-    "DataGrip",
-    "MySQLWorkbench",
-    "PyCharm",
-    "Docker",
+    "Eclipse", "Visual Studio Code", "Postman", "DataGrip",
+    "MySQLWorkbench", "PyCharm", "Docker", "OrbStack"
   ]
 }
 
