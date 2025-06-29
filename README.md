@@ -1,7 +1,7 @@
 
 # Hi! I'm Naman 👋   |   📍 Boston, MA
 
-I am a First Year Computer Science and Business Administration Student at **Northeastern University**  
+I am a Second Year Computer Science and Business Administration Student at **Northeastern University**  
 <br/>
 
 <img src="https://github.com/naman0r/naman0r/blob/output/ocean.gif" width="450" align="right">
