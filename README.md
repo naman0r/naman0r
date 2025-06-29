@@ -1,11 +1,22 @@
+
 # Hi! I'm Naman 👋   |   📍 Boston, MA
 
-I am a First Year Computer Science and Business Administration Student at Northeastern University 
+I am a First Year Computer Science and Business Administration Student at **Northeastern University**  
+<br/>
 
-Currently building: [AxiomAI](https://axiomai.space)
-Working at: @VenuAI [YC backed]
+<img src="https://github.com/naman0r/naman0r/blob/output/ocean.gif" width="450" align="right">
+Currently building: <a href="https://axiomai.space" target="_blank">AxiomAI</a>
+<br/>
+<br/>
+Working  <a href="https://venu3d.com">@VenuAI</a> [YC backed]
+<br/>
+<br/>
+<br/>
+<br/>
 
-![snake gif](https://github.com/naman0r/naman0r/blob/output/ocean.gif)
+
+
+
 
 
 
