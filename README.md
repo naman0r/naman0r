@@ -60,4 +60,4 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/namanrusi
 # 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman0r&layout=compact)
 
-[![Naman Rusia profile views](https://u8views.com/api/v1/github/profiles/170224224/views/total-count.svg)](https://u8views.com/github/naman0r)
+<!--[![Naman Rusia profile views](https://u8views.com/api/v1/github/profiles/170224224/views/total-count.svg)](https://u8views.com/github/naman0r) -->
