@@ -8,7 +8,7 @@ I am a Second Year Computer Science and Business Administration Student at **Nor
 Currently building: <a href="https://axiomai.space" target="_blank" >AxiomAI</a>
 <br/>
 <br/>
-Working  <a href="https://venu3d.com">@VenuAI</a> [YC backed]
+Intern @  <a href="https://venu3d.com">VenuAI</a> [YC backed]
 <br/>
 <br/>
 <br/>
