@@ -58,6 +58,13 @@ To learn more about me and my projects, please visit my Personal Website [here](
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/namanrusia/) !
 
 # 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman0r&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman0r&layout=compact) -->
 
 <!--[![Naman Rusia profile views](https://u8views.com/api/v1/github/profiles/170224224/views/total-count.svg)](https://u8views.com/github/naman0r) -->
+
+
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=naman0r&show_icons=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naman0r&langs_count=6&show_icons=true&locale=en&layout=compact&theme=light" height="180px" />
+</div>
