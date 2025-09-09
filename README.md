@@ -1,7 +1,7 @@
 
 # Hi! I'm Naman 👋   |   📍 Boston, MA
 
-I am a Second Year Computer Science and Business Administration Student at **Northeastern University**  
+I am a Second Year Computer Science and Business Administration (Finance) Student at **Northeastern University**. Feel free to reach out to me at rusia.n@northeastern.edu
 <br/>
 
 <img src="https://github.com/naman0r/naman0r/blob/output/ocean.gif" width="450" align="right">
@@ -12,6 +12,12 @@ Intern @  <a href="https://www.neocorehealth.com/">Neocore Health (Formerly Auri
 <br/>
 <br/>
 <br/>
+
+
+Campus Involvements: 
+  - Technical Product Manager @ TAMID at Northeastern (Tech Consulting track). Check out my work on this project [here](https://github.com/TamidNortheastern)
+ 
+
 <br/>
 
 
