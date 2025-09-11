@@ -15,7 +15,7 @@ Intern @  <a href="https://www.neocorehealth.com/">Neocore Health (Formerly Auri
 
 
 Campus Involvements: 
-  - Technical Product Manager @ TAMID at Northeastern (Tech Consulting track). Check out my work on this project [here](https://github.com/TamidNortheastern)
+  - Technical Product Manager @ TAMID at Northeastern (Tech Consulting track). Check out my work on this project [here](https://github.com/TamidNu/foresight)
  
 
 <br/>
