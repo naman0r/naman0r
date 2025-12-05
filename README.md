@@ -8,7 +8,9 @@ I am a Second Year Computer Science and Business Administration (Finance) Studen
 Currently building: <a href="https://axiomai.space" target="_blank" >AxiomAI</a>
 <br/>
 <br/>
-Intern @  <a href="https://www.neocorehealth.com/">Neocore Health (Formerly Auribus Labs)</a>
+Spring/Winter 2026: Incoming SDE co-op @ <a href='https://www.usa.philips.com/healthcare'>Philips Healthcare</a>, Automation team
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -32,7 +34,7 @@ Campus Involvements:
 ```json
 {
 
-  "Availability": ["Spring 2026 co-op (January - June 2026)", "Summer 2026"],
+  "Availability": ["Summer 2026"],
 
   "Languages": ["Java", "Python", "JavaScript", "Racket", "SQL", "TypeScript"],
 
