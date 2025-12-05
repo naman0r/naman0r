@@ -1,5 +1,5 @@
 
-# Hi! I'm Naman 👋   |   📍 Boston, MA
+# Hi! I'm Naman 👋       |       📍 Boston, MA
 
 I like coding and creating products that have an impact. Learn more about me at [www.namanrusia.dev](https://www.namanrusia.dev).
 <br/>
@@ -62,6 +62,6 @@ My Skills:
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman0r&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman0r&theme=chartreuse_dark)
 ![](https://github.com/naman0r/naman0r/blob/output/github-snake-dark.svg)
 <!--<img src="https://github.com/naman0r/naman0r/blob/output/ocean.gif" width="750">-->
