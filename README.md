@@ -1,6 +1,6 @@
 
 # Hi! I'm Naman 👋       |       📍 Boston, MA
-
+<br/>
 I like coding and creating products that have an impact. Learn more about me at [www.namanrusia.dev](https://www.namanrusia.dev).
 <br/>
 
@@ -55,13 +55,19 @@ Check out some of my projects [here](https://namanrusia.com/projects)! Feel free
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naman0r&langs_count=6&show_icons=true&locale=en&layout=compact&theme=light" height="180px" />
 </div>
 --> 
-My Skills: 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,prisma,fastapi,nextjs,gcp,cs,aws,express,nestjs,react,vercel,vite,sklearn,tailwindcss,supabase,mongodb,postgresql,flask,nodejs,git,docker,cpp,java,spring" />
+### My Skills: 
+<p align="left">
+  <a href="https://www.namanrusia.dev">
+    <img width=800 src="https://go-skill-icons.vercel.app/api/icons?i=python,ts,prisma,fastapi,nextjs,gcp,cs,aws,express,nestjs,django,reactnative,django,seaborn,dotnet,cursor,selenium,firebase,jquery,postman,redis,streamlit,pandas,react,vercel,vite,sklearn,tailwindcss,supabase,mongodb,postgresql,flask,nodejs,git,docker,cpp,java,spring" />
   </a>
+  <br/>
+  <br/>
+  <br/>
+  <a href="#"><img width=800 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman0r&theme=chartreuse_dark"/></a>
+  <br/>
+  <a href="#"><img width=800 src="https://github.com/naman0r/naman0r/blob/output/github-snake-dark.svg"/></a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman0r&theme=chartreuse_dark)
-![](https://github.com/naman0r/naman0r/blob/output/github-snake-dark.svg)
+
+
 <!--<img src="https://github.com/naman0r/naman0r/blob/output/ocean.gif" width="750">-->
