@@ -1,7 +1,8 @@
 
 # Hi! I'm Naman 👋       |       📍 Boston, MA
 <br/>
-I like coding and creating products that have an impact. Learn more about me at [www.namanrusia.dev](https://www.namanrusia.dev).
+I like coding and creating products that have an impact. Learn more about me at www.namanrusia.dev
+<br/>
 <br/>
 
   - Spring/Winter 2026: Incoming SDE co-op @ <a href='https://www.usa.philips.com/healthcare'>Philips Healthcare</a>, Automation team 
@@ -58,7 +59,7 @@ Check out some of my projects [here](https://namanrusia.com/projects)! Feel free
 ### My Skills: 
 <p align="left">
   <a href="https://www.namanrusia.dev">
-    <img width=800 src="https://go-skill-icons.vercel.app/api/icons?i=python,ts,prisma,fastapi,nextjs,gcp,cs,aws,express,nestjs,django,reactnative,django,seaborn,dotnet,cursor,selenium,firebase,jquery,postman,redis,streamlit,pandas,react,vercel,vite,sklearn,tailwindcss,supabase,mongodb,postgresql,flask,nodejs,git,docker,cpp,java,spring" />
+    <img width=800 src="https://go-skill-icons.vercel.app/api/icons?i=python,ts,prisma,fastapi,nextjs,gcp,cs,aws,express,nestjs,django,reactnative,django,seaborn,dotnet,cursor,selenium,firebase,jquery,postman,redis,streamlit,pandas,react,vercel,vite,sklearn,tailwindcss,supabase,mongodb,postgresql,flask,nodejs,git,docker,cpp,java,spring,graphql,celery,swift,css,mysql,golang,github" />
   </a>
   <br/>
   <br/>
