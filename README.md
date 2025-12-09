@@ -6,10 +6,12 @@ I like coding and creating products that have an impact. Learn more about me at 
 <br/>
 
   - Spring/Winter 2026: Incoming SDE co-op @ <a href='https://www.usa.philips.com/healthcare'>Philips Healthcare</a>, Automation team 
-  - Technical Product Manager @ TAMID at Northeastern (Tech Consulting track). Check out my work on this project [here](https://github.com/TamidNu/foresight)
-  - Developer at [Code4Community at Northeastern University](https://www.c4cneu.com/)
-  - past: Mobile applications Developer at [Forge](https://www.forgenu.com) (hardware teams), intern at [Auribus Labs](https://www.auribuslabs.com), Venu AI (YC W21)
-  - A lot of late nights coding cool things
+  - Tech Lead/TPM @ [TAMID at Northeastern](https://www.nutamid.org/) ([Tech Consulting track](https://www.nutamidtech.org/)). Check out my work on this project [here](https://github.com/TamidNu/foresight)
+  - Developer at [Code4Community](https://www.c4cneu.com/) at Northeastern University
+    - Spring 2026: Incoming Dev on [idk yet](https://github.com/Code-4-Community)
+    - Fall 2025: [Core Infra team](https://github.com/Code-4-Community/c4c-ops) developer
+  - past: Mobile applications Developer at [Forge](https://www.forgenu.com) (hardware teams), intern at [Auribus Labs](https://www.auribuslabs.com) and [Venu AI ](https://www.venu3d.com/)(YC W21)
+  - A lot of late nights coding cool things, and occasionally wanting to break my computer
 
 <!--
 ## MyToolkit.json              🧰 👾
