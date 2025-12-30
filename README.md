@@ -5,12 +5,17 @@ I like coding and creating products that have an impact. Learn more about me at 
 <br/>
 <br/>
 
-  - Spring/Winter 2026: Incoming SDE co-op @ <a href='https://www.usa.philips.com/healthcare'>Philips Healthcare</a>, Automation team 
-  - Tech Lead/TPM @ [TAMID at Northeastern](https://www.nutamid.org/) ([Tech Consulting track](https://www.nutamidtech.org/)). Check out my work on this project [here](https://github.com/TamidNu/foresight)
-  - Developer at [Code4Community](https://www.c4cneu.com/) at Northeastern University
-    - Spring 2026: Incoming Dev on [idk yet](https://github.com/Code-4-Community)
+  - Spring/Winter 2026: SDE co-op @ <a href='https://www.usa.philips.com/healthcare'>Philips Healthcare</a>, Automation team (Jan - May 2026)
+  - Summer 2026: SWE intern @ <a href='https://www.linkedin.com/company/sonos-inc-/posts/?feedView=all'>Sonos Inc</a>
+  - [TAMID at Northeastern](https://www.nutamid.org/) ([Tech Consulting track](https://www.nutamidtech.org/)) involvements:
+    - Spring 2026: Dev and Tech Consulting Foundations Instructor 
+    - Fall 2025: Tech Lead/TPM, Check out my work on this project [here](https://github.com/TamidNu/foresight)
+  - Developer at [Code4Community](https://www.c4cneu.com/) at Northeastern:
+    - Spring 2026: Software Developer on [?](https://github.com/Code-4-Community)
     - Fall 2025: [Core Infra team](https://github.com/Code-4-Community/c4c-ops) developer
-  - past: Mobile applications Developer at [Forge](https://www.forgenu.com) (hardware teams), intern at [Auribus Labs](https://www.auribuslabs.com) and [Venu AI ](https://www.venu3d.com/)(YC W21)
+  - past:
+    - SWE intern at [Auribus Labs](https://www.auribuslabs.com) and [Venu AI ](https://www.venu3d.com/)(YC W21)   
+    - Mobile applications Developer at [Forge](https://www.forgenu.com) (hardware teams)
   - A lot of late nights coding cool things, and occasionally wanting to break my computer
 
 <!--
