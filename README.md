@@ -5,8 +5,8 @@ I like coding and creating products that have an impact. Learn more about me at 
 <br/>
 <br/>
 
-  - Spring/Winter 2026: SDE co-op @ <a href='https://www.usa.philips.com/healthcare'>Philips Healthcare</a>, Automation team (Jan - May 2026)
-  - Summer 2026: SWE intern @ <a href='https://www.linkedin.com/company/sonos-inc-/posts/?feedView=all'>Sonos Inc</a>
+  - Spring/Winter 2026: SDE co-op @ <a href='https://www.usa.philips.com/healthcare'>Philips Healthcare</a>, Systems Integration team (Jan - May 2026)
+  - Summer 2026: SWE intern @ <a href='https://www.linkedin.com/company/sonos-inc-/posts/?feedView='>Sonos Inc</a>
   - [TAMID at Northeastern](https://www.nutamid.org/) ([Tech Consulting track](https://www.nutamidtech.org/)) involvements:
     - Spring 2026: Dev and Tech Consulting Foundations Instructor 
     - Fall 2025: Tech Lead/TPM, Check out my work on this project [here](https://github.com/TamidNu/foresight)
