@@ -6,7 +6,9 @@ I like coding and creating products that have an impact. Learn more about me at 
 <br/>
 
 
-  - Summer 2026: SWE intern @ <a href='https://www.linkedin.com/company/sonos-inc-/posts/?feedView='>Sonos Inc</a>, <a href="https://github.com/namanrusiasonos"> @namanrusiasonos</a>
+  - Now: Back in classes and recruiting 😁  
+
+  - Summer 2026: SWE intern @ <a href='https://www.linkedin.com/posts/sonos-inc-_sonosintern2026-internshipprogram-earlycareers-activity-7496620373011148801-Atr1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZY20MBmK4Ksgri8XxCE03nZNvMQVMrVu4'>Sonos Inc</a>, <a href="https://github.com/namanrusiasonos"> @namanrusiasonos</a>
   - Spring/Winter 2026: SDE co-op @ <a href='https://www.usa.philips.com/healthcare'>Philips Healthcare</a>, Systems Integration team (Jan - May 2026)
   - [TAMID at Northeastern](https://www.nutamid.org/) ([Tech Consulting track](https://www.nutamidtech.org/)) involvements:
     - Fall 2026: Director of Software Engineering Track (formerly Tech Consulting)
