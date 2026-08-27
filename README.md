@@ -15,12 +15,13 @@ I like coding and creating products that have an impact. Learn more about me at 
     - Spring 2026: Dev and Tech Consulting Foundations Instructor 
     - Fall 2025: Tech Lead/TPM, Check out my work on this project [here](https://github.com/TamidNu/foresight)
   - Developer at [Code4Community](https://www.c4cneu.com/) at Northeastern:
+    - Summer 2026: Software Developed on [BHCHP](https://github.com/Code-4-Community/proj-bhchp)
     - Spring 2026: Software Developer on [826 Boston](https://github.com/Code-4-Community/826-boston)
     - Fall 2025: [Core Infra team](https://github.com/Code-4-Community/c4c-ops) developer
   - past:
     - SWE intern at [Auribus Labs](https://www.auribuslabs.com) and [Venu AI ](https://www.venu3d.com/)(YC W21)   
     - Mobile applications Developer at [Forge](https://www.forgenu.com) (hardware teams)
-  - A lot of late nights coding cool things, and occasionally wanting to break my computer
+  - A lot of late nights coding cool things, see more here: www.namanrusia.dev/experience
 
 <!--
 ## MyToolkit.json              🧰 👾
