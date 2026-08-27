@@ -1,7 +1,7 @@
 
 # Hi! I'm Naman 👋       |       📍 Boston, MA
 <br/>
-I like coding and creating products that have an impact. Learn more about me at www.namanrusia.dev
+I like coding and creating products that have an impact. Learn more about me at <a href="https://www.namanrusia.dev/?utm_source=github_profile"> www.namanrusia.dev</a>
 <br/>
 <br/>
 
