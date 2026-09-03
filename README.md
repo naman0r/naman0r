@@ -5,6 +5,8 @@ I like coding and creating products that have an impact. Learn more about me at 
 <br/>
 <br/>
 
+![GitHub streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dnaman0r%26type%3Djson%26timezone%3DAmerica%2FNew_York&query=%24.currentStreak.length&suffix=%20days&label=streak&color=blue&style=flat)
+
 
   - Now: Back in classes and recruiting 😁  
 
